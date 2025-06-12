@@ -1,0 +1,41 @@
+# This file serves as the template to generate GitHub Workflow.
+name: "Collect stars"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    # Run every day at 00:00 UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  collect_stars:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout is required here because:
+      # - Needs the script to load.
+      # - Make commits
+      - uses: actions/checkout@v3
+        
+      - name: Fetch stars
+        id: export_github_starred_repos
+        run: |
+          bash scripts/fetch_stars.sh 'Genzer' >|Genzer.starred.csv
+
+      - name: Track execution as a Git commit
+        id: add-git-commit
+        run: |-
+          if [[ -z "$(git status --porcelain=v1 2>/dev/null)" ]]; then
+            echo "No uncommitted changes."
+            exit 0
+          fi
+
+          readonly now="$(date -u "+%Y-%m-%dT%H:%M:%S%Z")"
+          # See: https://github.com/actions/checkout/pull/1184
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Export starred repositories at $now"
+          git push 
