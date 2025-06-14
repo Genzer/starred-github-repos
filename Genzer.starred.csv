@@ -1,4 +1,4 @@
-"repo","url","description"
+"repo" | "url" | "description" |
 "timip/OSWE","https://github.com/timip/OSWE","OSWE Preparation"
 "hookdeck/outpost","https://github.com/hookdeck/outpost","Open Source Outbound Webhooks and Event Destinations Infrastructure"
 "Ignitetechnologies/HackTheBox-CTF-Writeups","https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups","This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty."
