@@ -1,5 +1,4 @@
 # vim: set syntax=Makefile
-
 # Makefile Configuration
 ifeq ($(origin .RECIPEPREFIX), undefined)
   $(error This Make does not support .RECIPEPREFIX. Please use GNU Make 4.0 or later)
@@ -26,10 +25,12 @@ Genzer.starred.csv: Genzer.starred.jsonl
 
 Genzer.starred.md: Genzer.starred.jsonl
 >	@echo '| repo | url | description |' >|$@
+>	@echo '|-|-|-|' >>$@
 >	@cat $< | jq -r '"| \(.full_name) | <\(.html_url)> | \(.description) |"' >>$@
 
 Genzer.starred.adoc: Genzer.starred.jsonl
->	@echo '|===' >|$@
+>	@echo '[%header,cols="3"]' >|$@
+>	@echo '|===' >>$@
 > @echo '| repo ' >>$@
 > @echo '| url ' >>$@
 > @echo '| description ' >>$@
