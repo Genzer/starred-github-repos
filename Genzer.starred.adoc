@@ -383,7 +383,7 @@
 
 | litestar-org/litestar 
 | <https://github.com/litestar-org/litestar> 
-| Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+| Production-ready, Light, Flexible and Extensible ASGI API framework \| Effortlessly Build Performant APIs
 
 | purton-tech/barricade 
 | <https://github.com/purton-tech/barricade> 
