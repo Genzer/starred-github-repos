@@ -3,7 +3,7 @@ set -e -u -o pipefail
 
 main() {
 
-  if [[ "$DEBUG" == "TRUE" ]]; then
+  if [[ "${DEBUG:-FALSE" == "TRUE" ]]; then
     set -x
   fi
 
