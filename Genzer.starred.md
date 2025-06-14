@@ -1,5 +1,8 @@
-"repo","url","description"
-"timip/OSWE","<https://github.com/timip/OSWE>","OSWE Preparation"
+| repo | url | description |
+|=|=|=|
+|"timip/OSWE"|<https://github.com/timip/OSWE>|"OSWE Preparation"|
+
+```csv
 "hookdeck/outpost","https://github.com/hookdeck/outpost","Open Source Outbound Webhooks and Event Destinations Infrastructure"
 "Ignitetechnologies/HackTheBox-CTF-Writeups","https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups","This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty."
 "mindverse/Second-Me","https://github.com/mindverse/Second-Me","Train your AI self, amplify you, bridge the world"
@@ -903,3 +906,4 @@
 "ben-manes/caffeine","https://github.com/ben-manes/caffeine","A high performance caching library for Java"
 "Dynalon/mdwiki","https://github.com/Dynalon/mdwiki","CMS/Wiki system using Javascript for 100% client side single page application using Markdown."
 "jqno/equalsverifier-pre-google-code-import","https://github.com/jqno/equalsverifier-pre-google-code-import","This repository is no longer valid. Please update your bookmarks to the current EqualsVerifier repository."
+```
