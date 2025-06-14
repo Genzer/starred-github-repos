@@ -7,8 +7,8 @@ on:
     branches:
       - main
   schedule:
-    # Run every 10 minutes
-    - cron: '*/10 * * * *'
+    # Run every hour
+    - cron: '0 */1 * * *'
 
 jobs:
   collect_stars:
@@ -21,6 +21,8 @@ jobs:
         
       - name: Fetch stars
         id: export_github_starred_repos
+        env:
+          DEBUG: "TRUE"
         run: |
           bash scripts/fetch_stars.sh 'Genzer' >|Genzer.starred.csv
 
