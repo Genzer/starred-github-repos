@@ -1,4 +1,7 @@
 "repo","url","description"
+"lpelypenko/axe-html-reporter","https://github.com/lpelypenko/axe-html-reporter","Creates easy to read HTML file from axe-core® accessibility results object"
+"FiloSottile/age","https://github.com/FiloSottile/age","A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+"FiloSottile/passage","https://github.com/FiloSottile/passage","A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend."
 "farhanashrafdev/90DaysOfCyberSecurity","https://github.com/farhanashrafdev/90DaysOfCyberSecurity","This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md"
 "linkwarden/linkwarden","https://github.com/linkwarden/linkwarden","⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents."
 "timip/OSWE","https://github.com/timip/OSWE","OSWE Preparation"
