@@ -1,4 +1,5 @@
 "repo","url","description"
+"nicolas-van/multirun","https://github.com/nicolas-van/multirun","A minimalist init process designed for Docker"
 "dequelabs/axe-devtools-html-api-examples","https://github.com/dequelabs/axe-devtools-html-api-examples","Library of example projects for axe DevTools HTML api integrations"
 "izabera/bitwise-challenge-2048","https://github.com/izabera/bitwise-challenge-2048","2048 with only 64 bits of state"
 "lpelypenko/axe-html-reporter","https://github.com/lpelypenko/axe-html-reporter","Creates easy to read HTML file from axe-core® accessibility results object"
