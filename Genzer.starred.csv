@@ -1,4 +1,5 @@
 "repo","url","description"
+"pyinstaller/pyinstaller","https://github.com/pyinstaller/pyinstaller","Freeze (package) Python programs into stand-alone executables"
 "nicolas-van/multirun","https://github.com/nicolas-van/multirun","A minimalist init process designed for Docker"
 "dequelabs/axe-devtools-html-api-examples","https://github.com/dequelabs/axe-devtools-html-api-examples","Library of example projects for axe DevTools HTML api integrations"
 "izabera/bitwise-challenge-2048","https://github.com/izabera/bitwise-challenge-2048","2048 with only 64 bits of state"
