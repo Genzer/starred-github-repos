@@ -92,7 +92,7 @@
 "axeleroy/self-host-planning-poker","https://github.com/axeleroy/self-host-planning-poker","A hassle-free Planning Poker application to deploy on your NAS."
 "INQTR/poker-planning","https://github.com/INQTR/poker-planning","PokerPlanning.org is perfect for Agile workflows, our tool makes consensus-based estimation simple, fun, and effective."
 "compose-x/ecs_composex","https://github.com/compose-x/ecs_composex","Manage, Configure and Deploy your services and AWS services and applications from your docker-compose definitions"
-"docker/compose-ecs","https://github.com/docker/compose-ecs","Deploy compose application on ECS"
+"docker-archive-public/docker.compose-ecs","https://github.com/docker-archive-public/docker.compose-ecs","Deploy compose application on ECS"
 "d0c-s4vage/lookatme","https://github.com/d0c-s4vage/lookatme","An interactive, terminal-based markdown presenter"
 "mock-server/mockserver","https://github.com/mock-server/mockserver","MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding)."
 "usebruno/bruno","https://github.com/usebruno/bruno","Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)"
