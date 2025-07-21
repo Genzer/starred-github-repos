@@ -183,7 +183,7 @@
 "kubernauts/practical-kubernetes-problems","https://github.com/kubernauts/practical-kubernetes-problems","Used by our Practical Kubernetes Trainings."
 "isaacs/minipass","https://github.com/isaacs/minipass","A stream implementation that does more by doing less"
 "openshift/cluster-logging-operator","https://github.com/openshift/cluster-logging-operator","Operator to support logging subsystem of OpenShift"
-"teamhanko/hanko","https://github.com/teamhanko/hanko","Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch."
+"teamhanko/hanko","https://github.com/teamhanko/hanko","Privacy-first Authentication and User Management system. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch."
 "mrmierzejewski/hugo-theme-console","https://github.com/mrmierzejewski/hugo-theme-console","Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second."
 "athul/archie","https://github.com/athul/archie","A minimal Hugo Theme"
 "thuliteio/doks","https://github.com/thuliteio/doks","Everything you need to build a stellar documentation website. Fast, accessible, and easy to use."
