@@ -167,7 +167,7 @@
 "pingcap/talent-plan","https://github.com/pingcap/talent-plan","open source training courses about distributed database and distributed systems"
 "ast-grep/ast-grep","https://github.com/ast-grep/ast-grep","⚡A CLI tool for code structural search, lint and rewriting. Written in Rust"
 "jpetazzo/dind","https://github.com/jpetazzo/dind","Docker in Docker"
-"open-policy-agent/gatekeeper","https://github.com/open-policy-agent/gatekeeper","🐊 Gatekeeper - Policy Controller for Kubernetes"
+"open-policy-agent/gatekeeper","https://github.com/open-policy-agent/gatekeeper","🐊 Policy Controller for Kubernetes"
 "jsonresume/resume-cli","https://github.com/jsonresume/resume-cli","CLI tool to easily setup a new resume 📑"
 "infinite-horizon219/Unix-Privilege-Escalation-Exploits-Pack","https://github.com/infinite-horizon219/Unix-Privilege-Escalation-Exploits-Pack","Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc."
 "greenpau/caddy-security","https://github.com/greenpau/caddy-security","🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐"
