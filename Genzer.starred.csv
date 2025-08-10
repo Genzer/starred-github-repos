@@ -1,4 +1,5 @@
 "repo","url","description"
+"rfjakob/gocryptfs","https://github.com/rfjakob/gocryptfs","Encrypted overlay filesystem written in Go"
 "MaibornWolff/SecObserve","https://github.com/MaibornWolff/SecObserve","SecObserve is an open source vulnerability and license management system for software development teams and cloud environments. It supports a variety of open source vulnerability scanners and integrates easily into CI/CD pipelines."
 "contains-studio/agents","https://github.com/contains-studio/agents","sharing current agents in use"
 "EsotericSoftware/kryo","https://github.com/EsotericSoftware/kryo","Java binary serialization and cloning: fast, efficient, automatic"
