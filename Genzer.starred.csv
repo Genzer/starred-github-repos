@@ -1,4 +1,7 @@
 "repo","url","description"
+"msp4msps/ScubaGear","https://github.com/msp4msps/ScubaGear","Automation to assess the state of your M365 tenant against CISA's baselines"
+"CompliantSec/M365SAT","https://github.com/CompliantSec/M365SAT","Microsoft 365 Security Assessment Tool - A Easy-To-Use Microsoft 365 Security Assessment Tool "
+"alaanasser00/entraid-bench","https://github.com/alaanasser00/entraid-bench","Microsoft Entra ID Security Assessment Tool"
 "rfjakob/gocryptfs","https://github.com/rfjakob/gocryptfs","Encrypted overlay filesystem written in Go"
 "MaibornWolff/SecObserve","https://github.com/MaibornWolff/SecObserve","SecObserve is an open source vulnerability and license management system for software development teams and cloud environments. It supports a variety of open source vulnerability scanners and integrates easily into CI/CD pipelines."
 "contains-studio/agents","https://github.com/contains-studio/agents","sharing current agents in use"
