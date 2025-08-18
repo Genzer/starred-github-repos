@@ -273,7 +273,7 @@
 "sissbruecker/linkding","https://github.com/sissbruecker/linkding","Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker."
 "envkey/envkey","https://github.com/envkey/envkey","Simple, end-to-end encrypted configuration and secrets management"
 "TomWright/dasel","https://github.com/TomWright/dasel","Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package."
-"warp-tech/warpgate","https://github.com/warp-tech/warpgate","Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software"
+"warp-tech/warpgate","https://github.com/warp-tech/warpgate","Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software"
 "riramar/Web-Attack-Cheat-Sheet","https://github.com/riramar/Web-Attack-Cheat-Sheet","Web Attack Cheat Sheet"
 "nipafx/demo-java-x","https://github.com/nipafx/demo-java-x","Demonstrates Java 9-18's new features"
 "andresriancho/w3af","https://github.com/andresriancho/w3af","w3af: web application attack and audit framework, the open source web vulnerability scanner."
