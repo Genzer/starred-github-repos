@@ -152,7 +152,7 @@
 "kata-containers/kata-containers","https://github.com/kata-containers/kata-containers","Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
 "fastly/pushpin","https://github.com/fastly/pushpin","A proxy server for adding push to your API, used at the core of Fastly's Fanout service"
 "pgrok/pgrok","https://github.com/pgrok/pgrok","Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding"
-"coroot/coroot","https://github.com/coroot/coroot","Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections."
+"coroot/coroot","https://github.com/coroot/coroot","Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections."
 "copier-org/copier","https://github.com/copier-org/copier","Library and command-line utility for rendering projects templates."
 "microlinkhq/keyvhq","https://github.com/microlinkhq/keyvhq","Simple key-value storage with support for multiple backends."
 "dockovpn/dockovpn","https://github.com/dockovpn/dockovpn","🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds"
