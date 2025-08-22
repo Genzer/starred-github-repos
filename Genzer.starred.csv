@@ -1,4 +1,5 @@
 "repo","url","description"
+"nikitabobko/AeroSpace","https://github.com/nikitabobko/AeroSpace","AeroSpace is an i3-like tiling window manager for macOS"
 "netheril96/securefs","https://github.com/netheril96/securefs","Filesystem in userspace (FUSE) with transparent authenticated encryption"
 "google/fscrypt","https://github.com/google/fscrypt","Go tool for managing Linux filesystem encryption"
 "msp4msps/ScubaGear","https://github.com/msp4msps/ScubaGear","Automation to assess the state of your M365 tenant against CISA's baselines"
