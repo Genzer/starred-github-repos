@@ -1,4 +1,6 @@
 "repo","url","description"
+"jkroepke/openvpn-auth-oauth2","https://github.com/jkroepke/openvpn-auth-oauth2","openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows"
+"GramThanos/vpn-oidc","https://github.com/GramThanos/vpn-oidc","VPN Authentication through Open ID Connect using OpenVPN"
 "nikitabobko/AeroSpace","https://github.com/nikitabobko/AeroSpace","AeroSpace is an i3-like tiling window manager for macOS"
 "netheril96/securefs","https://github.com/netheril96/securefs","Filesystem in userspace (FUSE) with transparent authenticated encryption"
 "google/fscrypt","https://github.com/google/fscrypt","Go tool for managing Linux filesystem encryption"
