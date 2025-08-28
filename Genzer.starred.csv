@@ -298,7 +298,7 @@
 "jedrzejboczar/possession.nvim","https://github.com/jedrzejboczar/possession.nvim","Flexible session management for Neovim."
 "BobTheShoplifter/Spring4Shell-POC","https://github.com/BobTheShoplifter/Spring4Shell-POC","Spring4Shell Proof Of Concept/And vulnerable application CVE-2022-22965"
 "dagger/dagger","https://github.com/dagger/dagger","An open-source runtime for composable workflows. Great for AI agents and CI/CD."
-"nrwl/nx","https://github.com/nrwl/nx","An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things."
+"nrwl/nx","https://github.com/nrwl/nx","Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents."
 "Konloch/bytecode-viewer","https://github.com/Konloch/bytecode-viewer","A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)"
 "oconnor663/sha256_project","https://github.com/oconnor663/sha256_project","The SHA-256 Project, developed for NYU Tandon's Applied Cryptography course"
 "baptisteArno/typebot.io","https://github.com/baptisteArno/typebot.io","💬 Typebot is a powerful chatbot builder that you can self-host."
