@@ -665,7 +665,7 @@
 "tox-dev/pipdeptree","https://github.com/tox-dev/pipdeptree","A command line utility to display dependency tree of the installed Python packages"
 "supabase/realtime","https://github.com/supabase/realtime","Broadcast, Presence, and Postgres Changes via WebSockets"
 "ines/termynal","https://github.com/ines/termynal","⬛️ Lightweight and modern terminal animations using async/await"
-"0xInfection/Awesome-WAF","https://github.com/0xInfection/Awesome-WAF","🔥 Web-application firewalls (WAFs) from security standpoint."
+"0xInfection/Awesome-WAF","https://github.com/0xInfection/Awesome-WAF","Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥"
 "ovh/the-bastion","https://github.com/ovh/the-bastion","Authentication, authorization, traceability and auditability for SSH accesses."
 "cubefs/cubefs","https://github.com/cubefs/cubefs","cloud-native distributed storage"
 "lakhanmankani/wifi_qrcode_generator","https://github.com/lakhanmankani/wifi_qrcode_generator","Generate a QR code for your WiFi network to let others quickly connect without needing to tell them your long and complicated password."
