@@ -344,7 +344,7 @@
 "cybersecsi/houdini","https://github.com/cybersecsi/houdini","Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all."
 "JohnLaTwC/Shared","https://github.com/JohnLaTwC/Shared","Shared Blogs and Notebooks"
 "opsdisk/the_cyber_plumbers_handbook","https://github.com/opsdisk/the_cyber_plumbers_handbook","Free copy of The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss."
-"maxgoedjen/secretive","https://github.com/maxgoedjen/secretive","Store SSH keys in the Secure Enclave"
+"maxgoedjen/secretive","https://github.com/maxgoedjen/secretive","Protect your SSH keys with your Mac's Secure Enclave"
 "cloudfoundry/java-buildpack-memory-calculator","https://github.com/cloudfoundry/java-buildpack-memory-calculator","Cloud Foundry JVM Memory Calculator"
 "flarum/flarum","https://github.com/flarum/flarum","Simple forum software for building great communities."
 "tkellogg/dura","https://github.com/tkellogg/dura","You shouldn't ever lose your work if you're using Git"
