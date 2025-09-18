@@ -890,7 +890,7 @@
 "miniflux/v2","https://github.com/miniflux/v2","Minimalist and opinionated feed reader"
 "agronholm/apscheduler","https://github.com/agronholm/apscheduler","Task scheduling library for Python"
 "kislyuk/yq","https://github.com/kislyuk/yq","Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents"
-"Kong/kong","https://github.com/Kong/kong","🦍 The Cloud-Native API Gateway and AI Gateway."
+"Kong/kong","https://github.com/Kong/kong","🦍 The Cloud-Native Gateway for APIs & AI"
 "nmstoker/MultiLingualBot","https://github.com/nmstoker/MultiLingualBot","MultiLingualBot: a simple multi-lingual bot that can respond to questions on academic subjects"
 "AdamSpannbauer/app_rasa_chat_bot","https://github.com/AdamSpannbauer/app_rasa_chat_bot","a stateless chat bot to perform natural language queries against the App Store top charts"
 "RasaHQ/rasa-nlu-trainer","https://github.com/RasaHQ/rasa-nlu-trainer","DEPRECATED: We recommend using Rasa X https://rasa.com/docs/rasa-x/ for managing NLU data"
