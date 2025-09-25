@@ -1,4 +1,5 @@
 "repo","url","description"
+"cult-of-coders/redis-oplog","https://github.com/cult-of-coders/redis-oplog","Redis Oplog implementation to fully replace MongoDB Oplog in Meteor"
 "11notes/docker-adguard","https://github.com/11notes/docker-adguard","Run AdGuardHome rootless and distroless."
 "simonrob/email-oauth2-proxy","https://github.com/simonrob/email-oauth2-proxy","An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for email clients that don't support this method."
 "DarioCalovic/secretify","https://github.com/DarioCalovic/secretify","A secure way to transfer or share secrets"
