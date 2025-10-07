@@ -209,7 +209,7 @@
 "turbot/steampipe","https://github.com/turbot/steampipe","Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required."
 "reactor/reactor-netty","https://github.com/reactor/reactor-netty","TCP/HTTP/UDP/QUIC client/server with Reactor over Netty"
 "samdjstevens/java-totp","https://github.com/samdjstevens/java-totp","A java library for implementing Time-based One Time Passwords for Multi-Factor Authentication."
-"kovidgoyal/kitty","https://github.com/kovidgoyal/kitty","Cross-platform, fast, feature-rich, GPU based terminal"
+"kovidgoyal/kitty","https://github.com/kovidgoyal/kitty","If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based."
 "sourcey/spectacle","https://github.com/sourcey/spectacle","Beautiful static documentation generator for OpenAPI/Swagger 2.0"
 "mnadeem/boot-opentelemetry-tempo","https://github.com/mnadeem/boot-opentelemetry-tempo","Project demonstrating Complete Observability Stack utilizing Prometheus, Loki (For distributed logging), Tempo (For Distributed tracing, this basically uses Jaeger Internally), Grafana for Java/spring based applications (With OpenTelemetry auto / manual Instrumentation) involving multiple microservices with DB interactions"
 "abhinavsingh/proxy.py","https://github.com/abhinavsingh/proxy.py","💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 ""Proxy Server"" framework • 🌐 ""Web Server"" framework • ➵ ➶ ➷ ➠ ""PubSub"" framework • 👷 ""Work"" acceptor & executor framework"
