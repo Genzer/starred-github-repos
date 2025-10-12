@@ -295,7 +295,7 @@
 "httpie/cli","https://github.com/httpie/cli","🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more."
 "ramimac/aws-customer-security-incidents","https://github.com/ramimac/aws-customer-security-incidents","A repository of breaches of AWS customers"
 "cider-security-research/cicd-goat","https://github.com/cider-security-research/cicd-goat","A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges."
-"zimfw/zimfw","https://github.com/zimfw/zimfw","Zim Framework: Modular, customizable, and blazing fast Zsh framework"
+"zimfw/zimfw","https://github.com/zimfw/zimfw","Zim Framework: The Zsh configuration framework with blazing speed and modular extensions."
 "http-feeds/http-feeds","https://github.com/http-feeds/http-feeds","Asynchronous event streaming and data replication with plain HTTP APIs."
 "ekzhang/bore","https://github.com/ekzhang/bore","🕳 bore is a simple CLI tool for making tunnels to localhost"
 "kubeshark/kubeshark","https://github.com/kubeshark/kubeshark","The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes"
