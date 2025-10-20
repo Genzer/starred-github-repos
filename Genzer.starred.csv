@@ -1,4 +1,6 @@
 "repo","url","description"
+"fabric/fabric","https://github.com/fabric/fabric","Simple, Pythonic remote execution and deployment."
+"meirwah/awesome-workflow-engines","https://github.com/meirwah/awesome-workflow-engines","A curated list of awesome open source workflow engines"
 "xataio/pgroll","https://github.com/xataio/pgroll","PostgreSQL zero-downtime migrations made easy"
 "subhashchy/The-Accidental-CTO","https://github.com/subhashchy/The-Accidental-CTO","How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary "
 "ory/oathkeeper","https://github.com/ory/oathkeeper","A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
