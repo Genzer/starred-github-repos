@@ -130,7 +130,7 @@
 "lcrilly/nginx2squid","https://github.com/lcrilly/nginx2squid","PoC environment where NGINX proxies upstream via Squid forward proxy using HTTP CONNECT"
 "sleventyeleven/linuxprivchecker","https://github.com/sleventyeleven/linuxprivchecker","linuxprivchecker.py -- a Linux Privilege Escalation Check Script"
 "TH3xACE/SUDO_KILLER","https://github.com/TH3xACE/SUDO_KILLER","A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user."
-"litestar-org/litestar","https://github.com/litestar-org/litestar","Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs"
+"litestar-org/litestar","https://github.com/litestar-org/litestar","Light, flexible and extensible ASGI framework | Built to scale"
 "purton-tech/barricade","https://github.com/purton-tech/barricade","Quickly add user registration and logon to any application"
 "dosisod/refurb","https://github.com/dosisod/refurb","A tool for refurbishing and modernizing Python codebases"
 "bradfitz/issue-tracker-behaviors","https://github.com/bradfitz/issue-tracker-behaviors",
