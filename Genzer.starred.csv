@@ -1,4 +1,5 @@
 "repo","url","description"
+"ungoogled-software/ungoogled-chromium","https://github.com/ungoogled-software/ungoogled-chromium","Google Chromium, sans integration with Google"
 "fabric/fabric","https://github.com/fabric/fabric","Simple, Pythonic remote execution and deployment."
 "meirwah/awesome-workflow-engines","https://github.com/meirwah/awesome-workflow-engines","A curated list of awesome open source workflow engines"
 "xataio/pgroll","https://github.com/xataio/pgroll","PostgreSQL zero-downtime migrations made easy"
