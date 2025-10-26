@@ -120,7 +120,7 @@
 "mock-server/mockserver","https://github.com/mock-server/mockserver","MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding)."
 "usebruno/bruno","https://github.com/usebruno/bruno","Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)"
 "mrmykey/awesome-http-clients","https://github.com/mrmykey/awesome-http-clients","💎 A curated list of awesome HTTP Clients for exploring, debugging, and testing APIs. Best place to find postman alternatives."
-"hoppscotch/hoppscotch","https://github.com/hoppscotch/hoppscotch","Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+"hoppscotch/hoppscotch","https://github.com/hoppscotch/hoppscotch","Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia"
 "whyistheinternetbroken/k8s-kerberos","https://github.com/whyistheinternetbroken/k8s-kerberos","Kubernetes deployment of NFS Kerberos with mount in privileged container and user access from an unprivileged container."
 "curityio/nginx_oauth_proxy_module","https://github.com/curityio/nginx_oauth_proxy_module","NGINX module that decrypts secure cookies from Single Page Apps and forwards JWT access tokens to APIs"
 "satwikkansal/wtfpython","https://github.com/satwikkansal/wtfpython","What the f*ck Python? 😱"
