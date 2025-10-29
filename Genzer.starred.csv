@@ -23,7 +23,6 @@
 "contains-studio/agents","https://github.com/contains-studio/agents","sharing current agents in use"
 "EsotericSoftware/kryo","https://github.com/EsotericSoftware/kryo","Java binary serialization and cloning: fast, efficient, automatic"
 "Vinzent03/obsidian-git","https://github.com/Vinzent03/obsidian-git","Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md"
-"Catfriend1/syncthing-android","https://github.com/Catfriend1/syncthing-android","Syncthing-Fork - A Syncthing Wrapper for Android."
 "syncthing/syncthing","https://github.com/syncthing/syncthing","Open Source Continuous File Synchronization"
 "remotely-save/remotely-save","https://github.com/remotely-save/remotely-save","Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage."
 "vrtmrz/obsidian-livesync","https://github.com/vrtmrz/obsidian-livesync",
