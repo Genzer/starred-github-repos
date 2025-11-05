@@ -19,7 +19,7 @@
 "CompliantSec/M365SAT","https://github.com/CompliantSec/M365SAT","Microsoft 365 Security Assessment Tool - A Easy-To-Use Microsoft 365 Security Assessment Tool "
 "alaanasser00/entraid-bench","https://github.com/alaanasser00/entraid-bench","Microsoft Entra ID Security Assessment Tool"
 "rfjakob/gocryptfs","https://github.com/rfjakob/gocryptfs","Encrypted overlay filesystem written in Go"
-"MaibornWolff/SecObserve","https://github.com/MaibornWolff/SecObserve","SecObserve is an open source vulnerability and license management system for software development teams and cloud environments. It supports a variety of open source vulnerability scanners and integrates easily into CI/CD pipelines."
+"SecObserve/SecObserve","https://github.com/SecObserve/SecObserve","SecObserve is an open source vulnerability and license management system for software development teams and cloud environments. It supports a variety of open source vulnerability scanners and integrates easily into CI/CD pipelines."
 "contains-studio/agents","https://github.com/contains-studio/agents","sharing current agents in use"
 "EsotericSoftware/kryo","https://github.com/EsotericSoftware/kryo","Java binary serialization and cloning: fast, efficient, automatic"
 "Vinzent03/obsidian-git","https://github.com/Vinzent03/obsidian-git","Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md"
