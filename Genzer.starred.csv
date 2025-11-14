@@ -810,7 +810,7 @@
 "fastapi/fastapi","https://github.com/fastapi/fastapi","FastAPI framework, high performance, easy to learn, fast to code, ready for production"
 "shieldfy/API-Security-Checklist","https://github.com/shieldfy/API-Security-Checklist","Checklist of the most important security countermeasures when designing, testing, and releasing your API"
 "google/eng-practices","https://github.com/google/eng-practices","Google's Engineering Practices documentation"
-"yangshun/tech-interview-handbook","https://github.com/yangshun/tech-interview-handbook","💯 Curated coding interview preparation materials for busy software engineers"
+"yangshun/tech-interview-handbook","https://github.com/yangshun/tech-interview-handbook","Curated coding interview preparation materials for busy software engineers"
 "lambci/docker-lambda","https://github.com/lambci/docker-lambda","Docker images and test runners that replicate the live AWS Lambda environment"
 "aboul3la/Sublist3r","https://github.com/aboul3la/Sublist3r","Fast subdomains enumeration tool for penetration testers"
 "jackellenberger/emojme","https://github.com/jackellenberger/emojme",":rotating_light: very powerful very stupid Slack emoji tools, holy cow! :rotating_light:"
