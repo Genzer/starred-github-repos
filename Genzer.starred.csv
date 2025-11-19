@@ -708,7 +708,7 @@
 "mingrammer/diagrams","https://github.com/mingrammer/diagrams",":art: Diagram as Code for prototyping cloud system architectures"
 "kdeldycke/awesome-falsehood","https://github.com/kdeldycke/awesome-falsehood","😱 Falsehoods Programmers Believe in"
 "BishopFox/h2csmuggler","https://github.com/BishopFox/h2csmuggler","HTTP Request Smuggling over HTTP/2 Cleartext (h2c)"
-"ory/hydra","https://github.com/ory/hydra","The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security."
+"ory/hydra","https://github.com/ory/hydra","Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
 "thoughtworks/build-your-own-radar","https://github.com/thoughtworks/build-your-own-radar","A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/."
 "zalando/tech-radar","https://github.com/zalando/tech-radar","Visualizing our technology choices"
 "google/docsy-example","https://github.com/google/docsy-example","An example documentation site using the Docsy Hugo theme"
