@@ -1,4 +1,5 @@
 "repo","url","description"
+"NullPxl/banrays","https://github.com/NullPxl/banrays","Glasses to detect smart-glasses that have cameras. Ray-BANNED"
 "duckdb/duckdb","https://github.com/duckdb/duckdb","DuckDB is an analytical in-process SQL database management system"
 "multiprocessio/dsq","https://github.com/multiprocessio/dsq","Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more."
 "madd86/awesome-system-design","https://github.com/madd86/awesome-system-design","A curated list of awesome System Design (A.K.A. Distributed Systems) resources. "
@@ -198,7 +199,6 @@
 "juanfont/headscale","https://github.com/juanfont/headscale","An open source, self-hosted implementation of the Tailscale control server"
 "molly/static-timeline-generator","https://github.com/molly/static-timeline-generator","Create static timeline webpages."
 "jlevy/the-art-of-command-line","https://github.com/jlevy/the-art-of-command-line","Master the command line, in one page"
-"fasiha/yamanote","https://github.com/fasiha/yamanote","Computers are supposed to be tools for thinking. A nerdy, perhaps silly, tool is a list of bookmarks with excerpts. I've tried to use social media, journal apps, and Pinboard to achieve this but they're all lacking. Let's go old school. Very WIP."
 "fasiha/yamanote","https://github.com/fasiha/yamanote","Computers are supposed to be tools for thinking. A nerdy, perhaps silly, tool is a list of bookmarks with excerpts. I've tried to use social media, journal apps, and Pinboard to achieve this but they're all lacking. Let's go old school. Very WIP."
 "jimporter/mike","https://github.com/jimporter/mike","Manage multiple versions of your MkDocs-powered documentation via Git"
 "devtut/devtut.github.io","https://github.com/devtut/devtut.github.io","Master programming topics"
