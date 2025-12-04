@@ -1,4 +1,5 @@
 "repo","url","description"
+"nginxinc/nginx-aws-signature","https://github.com/nginxinc/nginx-aws-signature","NGINX AWS Signature Library to authenticate AWS services such as S3 and Lambda via NGINX and NGINX Plus."
 "NullPxl/banrays","https://github.com/NullPxl/banrays","Glasses to detect smart-glasses that have cameras. Ray-BANNED"
 "duckdb/duckdb","https://github.com/duckdb/duckdb","DuckDB is an analytical in-process SQL database management system"
 "multiprocessio/dsq","https://github.com/multiprocessio/dsq","Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more."
