@@ -875,7 +875,6 @@
 "kvspb/nginx-auth-ldap","https://github.com/kvspb/nginx-auth-ldap","LDAP authentication module for nginx"
 "verdaccio/verdaccio","https://github.com/verdaccio/verdaccio","A lightweight Node.js private proxy registry"
 "tomastrajan/angular-ngrx-material-starter","https://github.com/tomastrajan/angular-ngrx-material-starter","Angular, NgRx, Angular CLI & Angular Material Starter Project"
-"cmachler/aws-lambda-ebs-backups","https://github.com/cmachler/aws-lambda-ebs-backups","Python scripts to be run using AWS's Lambda service to Backup and Delete Snapshots of EBS Volumes"
 "foliojs/pdfkit","https://github.com/foliojs/pdfkit","A JavaScript PDF generation library for Node and the browser"
 "chab/pdfkit","https://github.com/chab/pdfkit","A JavaScript PDF generation library for Node and the browser"
 "datacamp/courses-introduction-to-r","https://github.com/datacamp/courses-introduction-to-r","Introduction to R by Jonathan Cornelissen"
