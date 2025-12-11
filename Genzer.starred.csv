@@ -13,7 +13,7 @@
 "xataio/pgroll","https://github.com/xataio/pgroll","PostgreSQL zero-downtime migrations made easy"
 "subhashchy/The-Accidental-CTO","https://github.com/subhashchy/The-Accidental-CTO","How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary "
 "ory/oathkeeper","https://github.com/ory/oathkeeper","A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-"fosrl/pangolin","https://github.com/fosrl/pangolin","Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI"
+"fosrl/pangolin","https://github.com/fosrl/pangolin","Identity-based VPN and proxy for remote access to anything anywhere"
 "cult-of-coders/redis-oplog","https://github.com/cult-of-coders/redis-oplog","Redis Oplog implementation to fully replace MongoDB Oplog in Meteor"
 "11notes/docker-adguard","https://github.com/11notes/docker-adguard","run AdGuardHome rootless and distroless."
 "simonrob/email-oauth2-proxy","https://github.com/simonrob/email-oauth2-proxy","An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for email clients that don't support this method."
