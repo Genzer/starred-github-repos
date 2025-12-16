@@ -218,7 +218,7 @@
 "thuliteio/doks","https://github.com/thuliteio/doks","Everything you need to build a stellar documentation website. Fast, accessible, and easy to use."
 "sigstore/fulcio","https://github.com/sigstore/fulcio","Sigstore OIDC PKI"
 "haampie/libtree","https://github.com/haampie/libtree","ldd as a tree"
-"xonsh/xonsh","https://github.com/xonsh/xonsh","Python-powered shell. Full-featured and cross-platform."
+"xonsh/xonsh","https://github.com/xonsh/xonsh","🐚 Python-powered shell. Full-featured and cross-platform."
 "turbot/steampipe","https://github.com/turbot/steampipe","Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required."
 "reactor/reactor-netty","https://github.com/reactor/reactor-netty","TCP/HTTP/UDP/QUIC client/server with Reactor over Netty"
 "samdjstevens/java-totp","https://github.com/samdjstevens/java-totp","A java library for implementing Time-based One Time Passwords for Multi-Factor Authentication."
