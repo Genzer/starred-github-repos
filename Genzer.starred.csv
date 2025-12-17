@@ -1,4 +1,5 @@
 "repo","url","description"
+"nginx/nginx-acme","https://github.com/nginx/nginx-acme","An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol"
 "reorx/httpstat","https://github.com/reorx/httpstat","curl statistics made simple"
 "pomerium/pomerium","https://github.com/pomerium/pomerium","Pomerium is an identity and context-aware access proxy."
 "nginxinc/nginx-aws-signature","https://github.com/nginxinc/nginx-aws-signature","NGINX AWS Signature Library to authenticate AWS services such as S3 and Lambda via NGINX and NGINX Plus."
