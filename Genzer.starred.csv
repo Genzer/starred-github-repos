@@ -390,7 +390,7 @@
 "talent-plan/tinykv","https://github.com/talent-plan/tinykv","A course to build distributed key-value service based on TiKV model"
 "tikv/tikv","https://github.com/tikv/tikv","Distributed transactional key-value database, originally created to complement TiDB"
 "rust-lang/rustlings","https://github.com/rust-lang/rustlings",":crab: Small exercises to get you used to reading and writing Rust code!"
-"luau-lang/luau","https://github.com/luau-lang/luau","A fast, small, safe, gradually typed embeddable scripting language derived from Lua"
+"luau-lang/luau","https://github.com/luau-lang/luau","A small, fast, and embeddable programming language based on Lua with a gradual type system."
 "termux/termux-packages","https://github.com/termux/termux-packages","A package build system for Termux."
 "NARKOZ/hacker-scripts","https://github.com/NARKOZ/hacker-scripts","Based on a true story"
 "csswizardry/ct","https://github.com/csswizardry/ct","Let’s take a look inside your <head>…"
