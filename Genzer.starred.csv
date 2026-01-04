@@ -498,7 +498,7 @@
 "iamcco/markdown-preview.nvim","https://github.com/iamcco/markdown-preview.nvim","markdown preview plugin for (neo)vim"
 "developit/htm","https://github.com/developit/htm","Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support."
 "sleevi/psl-problems","https://github.com/sleevi/psl-problems",
-"TwiN/gatus","https://github.com/TwiN/gatus","The most advanced status page in the world"
+"TwiN/gatus","https://github.com/TwiN/gatus","Automated developer-oriented status page with alerting and incident support"
 "gitobsidiantutorial/obsidian-tabs","https://github.com/gitobsidiantutorial/obsidian-tabs","Plugin for tabbed obsidian browsing"
 "posquit0/awesome-engineering-ladders","https://github.com/posquit0/awesome-engineering-ladders",":sunglasses: A curated list of awesome resources for Engineering Ladder"
 "roboll/helmfile","https://github.com/roboll/helmfile","Deploy Kubernetes Helm Charts"
