@@ -924,7 +924,7 @@
 "mfornos/awesome-microservices","https://github.com/mfornos/awesome-microservices","A curated list of Microservice Architecture related principles and technologies."
 "jitsi/jitsi","https://github.com/jitsi/jitsi","Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features."
 "MatchbookLab/local-persist","https://github.com/MatchbookLab/local-persist","Create named local volumes that persist in the location(s) you want"
-"RocketChat/Rocket.Chat","https://github.com/RocketChat/Rocket.Chat","The communications platform that puts data protection first."
+"RocketChat/Rocket.Chat","https://github.com/RocketChat/Rocket.Chat","The Secure CommsOS™ for mission-critical operations"
 "mailslurper/mailslurper","https://github.com/mailslurper/mailslurper","Local, web-based mail server application. Slurp mails into oblivion!"
 "nginxinc/nginx-ldap-auth","https://github.com/nginxinc/nginx-ldap-auth","Example of LDAP authentication using ngx_http_auth_request_module"
 "asciidoctor/asciidoctor-maven-examples","https://github.com/asciidoctor/asciidoctor-maven-examples","A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin."
