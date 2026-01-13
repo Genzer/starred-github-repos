@@ -1,4 +1,5 @@
 "repo","url","description"
+"jdonsec/AllThingsSSRF","https://github.com/jdonsec/AllThingsSSRF","This is a collection of writeups, cheatsheets, videos, books related to SSRF in one single location"
 "dbreunig/whenwords","https://github.com/dbreunig/whenwords","A relative time formatting library, with no code."
 "aws-samples/siem-on-amazon-opensearch-service","https://github.com/aws-samples/siem-on-amazon-opensearch-service","A solution for collecting, correlating and visualizing multiple types of logs to help investigate security incidents."
 "Fission-AI/OpenSpec","https://github.com/Fission-AI/OpenSpec","Spec-driven development (SDD) for AI coding assistants."
