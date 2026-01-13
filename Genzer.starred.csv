@@ -1,4 +1,7 @@
 "repo","url","description"
+"dbreunig/whenwords","https://github.com/dbreunig/whenwords","A relative time formatting library, with no code."
+"aws-samples/siem-on-amazon-opensearch-service","https://github.com/aws-samples/siem-on-amazon-opensearch-service","A solution for collecting, correlating and visualizing multiple types of logs to help investigate security incidents."
+"Fission-AI/OpenSpec","https://github.com/Fission-AI/OpenSpec","Spec-driven development (SDD) for AI coding assistants."
 "CachyOS/wiki","https://github.com/CachyOS/wiki","Wiki for CachyOS"
 "realgenekim/genpassword","https://github.com/realgenekim/genpassword","Safe password generator - no dangerous chars, double-click friendly, readable segments, auto-copy to clipboard"
 "Chocapikk/CVE-2026-21858","https://github.com/Chocapikk/CVE-2026-21858","n8n Ni8mare - Unauthenticated Arbitrary File Read to RCE Chain (CVSS 10.0)"
