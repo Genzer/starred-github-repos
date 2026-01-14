@@ -328,7 +328,7 @@
 "paul-hammant/tbd","https://github.com/paul-hammant/tbd","Source for TrunkBasedDevelopment.com"
 "jedrzejboczar/possession.nvim","https://github.com/jedrzejboczar/possession.nvim","Flexible session management for Neovim."
 "BobTheShoplifter/Spring4Shell-POC","https://github.com/BobTheShoplifter/Spring4Shell-POC","Spring4Shell Proof Of Concept/And vulnerable application CVE-2022-22965"
-"dagger/dagger","https://github.com/dagger/dagger","The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud."
+"dagger/dagger","https://github.com/dagger/dagger","Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
 "nrwl/nx","https://github.com/nrwl/nx","Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents."
 "Konloch/bytecode-viewer","https://github.com/Konloch/bytecode-viewer","A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)"
 "oconnor663/sha256_project","https://github.com/oconnor663/sha256_project","The SHA-256 Project, developed for NYU Tandon's Applied Cryptography course"
