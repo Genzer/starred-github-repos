@@ -784,7 +784,7 @@
 "minimaxir/big-list-of-naughty-strings","https://github.com/minimaxir/big-list-of-naughty-strings","The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
 "actix/actix-web","https://github.com/actix/actix-web","Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
 "nameko/nameko","https://github.com/nameko/nameko","Python framework for building microservices"
-"GTFOBins/GTFOBins.github.io","https://github.com/GTFOBins/GTFOBins.github.io","GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems"
+"GTFOBins/GTFOBins.github.io","https://github.com/GTFOBins/GTFOBins.github.io","GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems."
 "mohamed-taman/Springy-Store-Microservices","https://github.com/mohamed-taman/Springy-Store-Microservices","Springy Store is a conceptual simple μServices-based project using the latest cutting-edge technologies, to demonstrate how the Store services are created to be a cloud-native and 12-factor app agnostic. Those μServices are developed based on Spring Boot & Cloud framework that implements cloud-native intuitive, design patterns, and best practices."
 "parallax/jsPDF","https://github.com/parallax/jsPDF","Client-side JavaScript PDF generation for everyone."
 "duo-labs/cloudmapper","https://github.com/duo-labs/cloudmapper"," CloudMapper helps you analyze your Amazon Web Services (AWS) environments."
