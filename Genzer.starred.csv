@@ -651,7 +651,7 @@
 "uroesch/asciidoctor-readthedocs-theme","https://github.com/uroesch/asciidoctor-readthedocs-theme","A variant of the readthedocs theme included in the asciidoctor stylesheet factory"
 "karatelabs/karate","https://github.com/karatelabs/karate","Test Automation Made Simple"
 "nat/ghtop","https://github.com/nat/ghtop","See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)"
-"dvorka/hstr","https://github.com/dvorka/hstr","bash and zsh shell history suggest box - easily view, navigate, search and manage your command history."
+"dvorka/hstr","https://github.com/dvorka/hstr","Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history."
 "asmvik/yabai","https://github.com/asmvik/yabai","A tiling window manager for macOS based on binary space partitioning"
 "asdf-vm/asdf","https://github.com/asdf-vm/asdf","Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
 "evanw/esbuild","https://github.com/evanw/esbuild","An extremely fast bundler for the web"
