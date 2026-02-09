@@ -335,7 +335,7 @@
 "zimfw/zimfw","https://github.com/zimfw/zimfw","Zim Framework: The Zsh configuration framework with blazing speed and modular extensions."
 "http-feeds/http-feeds","https://github.com/http-feeds/http-feeds","Asynchronous event streaming and data replication with plain HTTP APIs."
 "ekzhang/bore","https://github.com/ekzhang/bore","🕳 bore is a simple CLI tool for making tunnels to localhost"
-"kubeshark/kubeshark","https://github.com/kubeshark/kubeshark","API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources."
+"kubeshark/kubeshark","https://github.com/kubeshark/kubeshark","AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources."
 "paul-hammant/tbd","https://github.com/paul-hammant/tbd","Source for TrunkBasedDevelopment.com"
 "jedrzejboczar/possession.nvim","https://github.com/jedrzejboczar/possession.nvim","Flexible session management for Neovim."
 "BobTheShoplifter/Spring4Shell-POC","https://github.com/BobTheShoplifter/Spring4Shell-POC","Spring4Shell Proof Of Concept/And vulnerable application CVE-2022-22965"
