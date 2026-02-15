@@ -109,7 +109,7 @@
 "stern/stern","https://github.com/stern/stern","⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern"
 "lucafrance/luca-decimal","https://github.com/lucafrance/luca-decimal","A digital organization system."
 "sholladay/generator-seth","https://github.com/sholladay/generator-seth","Set up new Node.js projects"
-"casdoor/casdoor","https://github.com/casdoor/casdoor","An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos"
+"casdoor/casdoor","https://github.com/casdoor/casdoor","An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD"
 "nginx-proxy/nginx-proxy","https://github.com/nginx-proxy/nginx-proxy","Automated nginx proxy for Docker containers using docker-gen"
 "nginx-proxy/docker-gen","https://github.com/nginx-proxy/docker-gen","Generate files from docker container meta-data"
 "dexpota/kitty-themes","https://github.com/dexpota/kitty-themes","A collection of themes for kitty terminal 😻"
