@@ -676,7 +676,7 @@
 "CrunchyData/postgres-operator","https://github.com/CrunchyData/postgres-operator","Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service."
 "systemjs/systemjs","https://github.com/systemjs/systemjs","Dynamic ES module loader"
 "volta-cli/volta","https://github.com/volta-cli/volta","Volta: JS Toolchains as Code. ⚡"
-"anderspitman/awesome-tunneling","https://github.com/anderspitman/awesome-tunneling","List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting."
+"anderspitman/awesome-tunneling","https://github.com/anderspitman/awesome-tunneling","List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting."
 "JanssenProject/home","https://github.com/JanssenProject/home","Head to https://github.com/JanssenProject/jans"
 "dogbin/dogbin","https://github.com/dogbin/dogbin","The sexiest pastebin and url shortener ever"
 "projectdiscovery/proxify","https://github.com/projectdiscovery/proxify","A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go."
