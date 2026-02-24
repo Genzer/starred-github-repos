@@ -107,7 +107,7 @@
 "firecracker-microvm/firecracker","https://github.com/firecracker-microvm/firecracker","Secure and fast microVMs for serverless computing."
 "openshift/gatekeeper","https://github.com/openshift/gatekeeper","Gatekeeper is a validating (mutating TBA) webhook that enforces CRD-based policies executed by Open Policy Agent"
 "cmacmackin/markdown-include","https://github.com/cmacmackin/markdown-include","Provides syntax for Python-Markdown which allows for the inclusion of the contents of other Markdown documents."
-"zoidyzoidzoid/awesome-ebpf","https://github.com/zoidyzoidzoid/awesome-ebpf","A curated list of awesome projects related to eBPF."
+"qmonnet/awesome-ebpf","https://github.com/qmonnet/awesome-ebpf","A curated list of awesome projects related to eBPF."
 "astral-sh/uv","https://github.com/astral-sh/uv","An extremely fast Python package and project manager, written in Rust."
 "getzola/zola","https://github.com/getzola/zola","A fast static site generator in a single binary with everything built-in. https://www.getzola.org"
 "sivaprasadreddy/tomato-architecture","https://github.com/sivaprasadreddy/tomato-architecture","Tomato Architecture - A common sense driven approach to software architecture"
