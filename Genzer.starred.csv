@@ -829,7 +829,7 @@
 "cdbattags/lua-resty-jwt","https://github.com/cdbattags/lua-resty-jwt","JWT For The Great Openresty"
 "Cyan4973/xxHash","https://github.com/Cyan4973/xxHash","Extremely fast non-cryptographic hash algorithm"
 "pnp/cli-microsoft365","https://github.com/pnp/cli-microsoft365","Manage Microsoft 365 and SharePoint Framework projects on any platform"
-"gatsbyjs/gatsby","https://github.com/gatsbyjs/gatsby","The best React-based framework with performance, scalability and security built in."
+"gatsbyjs/gatsby","https://github.com/gatsbyjs/gatsby","React-based framework with performance, scalability, and security built in."
 "ErikKalkoken/slackApiDoc","https://github.com/ErikKalkoken/slackApiDoc","Documentation of undocumented Slack API methods"
 "Gregivy/simpleddp","https://github.com/Gregivy/simpleddp","An easy to use DDP client library"
 "Kludex/starlette","https://github.com/Kludex/starlette","The little ASGI framework that shines. 🌟"
