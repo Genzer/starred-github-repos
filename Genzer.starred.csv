@@ -316,7 +316,6 @@
 "sshuttle/sshuttle","https://github.com/sshuttle/sshuttle","Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling."
 "tuyenvm/OpenKey","https://github.com/tuyenvm/OpenKey","Vietnamese Input for macOS, Windows and Linux - Bộ gõ Tiếng Việt nguồn mở đa nền tảng"
 "chvancooten/follina.py","https://github.com/chvancooten/follina.py","POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes"
-"aquasecurity/trivy","https://github.com/aquasecurity/trivy","Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
 "JCTools/JCTools","https://github.com/JCTools/JCTools",
 "Cveinnt/LiveTerm","https://github.com/Cveinnt/LiveTerm","💻 Build terminal styled websites in minutes!"
 "zalando/postgres-operator","https://github.com/zalando/postgres-operator","Postgres operator creates and manages PostgreSQL clusters running in Kubernetes"
