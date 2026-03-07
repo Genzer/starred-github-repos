@@ -1,4 +1,5 @@
 "repo","url","description"
+"elikaski/ECC_Attacks","https://github.com/elikaski/ECC_Attacks","Known attacks on Elliptic Curve Cryptography"
 "Proviesec/xss-payload-list","https://github.com/Proviesec/xss-payload-list","xss-payload-list"
 "featbit/featbit","https://github.com/featbit/featbit","Enterprise-grade feature flag platform that you can self-host. Get started - free."
 "ethicalhackingplayground/bxss","https://github.com/ethicalhackingplayground/bxss","Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications."
