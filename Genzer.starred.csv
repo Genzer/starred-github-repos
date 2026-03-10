@@ -570,7 +570,7 @@
 "muonsoft/openapi-mock","https://github.com/muonsoft/openapi-mock","OpenAPI mock server with random data generation"
 "matcornic/hugo-theme-learn","https://github.com/matcornic/hugo-theme-learn","Porting Grav Learn theme to Hugo"
 "gohugoio/hugo","https://github.com/gohugoio/hugo","The world’s fastest framework for building websites."
-"casbin/jcasbin","https://github.com/casbin/jcasbin","An authorization library that supports access control models like ACL, RBAC, ABAC in Java"
+"apache/casbin-jcasbin","https://github.com/apache/casbin-jcasbin","An authorization library that supports access control models like ACL, RBAC, ABAC in Java"
 "hmarr/vitals","https://github.com/hmarr/vitals","📊 A tiny macOS process monitor"
 "kbastani/order-delivery-microservice-example","https://github.com/kbastani/order-delivery-microservice-example","This repository contains a functional example of an order delivery service similar to UberEats, DoorDash, and Instacart."
 "Hopding/pdf-lib","https://github.com/Hopding/pdf-lib","Create and modify PDF documents in any JavaScript environment"
