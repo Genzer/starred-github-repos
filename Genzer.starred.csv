@@ -1,4 +1,5 @@
 "repo","url","description"
+"BehiSecc/VibeSec-Skill","https://github.com/BehiSecc/VibeSec-Skill","This skill helps Claude write secure code and prevent common vulnerabilities."
 "mcollina/skills","https://github.com/mcollina/skills","My own collection of skills for modern Node.js development"
 "sarperavci/CloudflareBypassForScraping","https://github.com/sarperavci/CloudflareBypassForScraping","A cloudflare verification bypass script for webscraping"
 "elikaski/ECC_Attacks","https://github.com/elikaski/ECC_Attacks","Known attacks on Elliptic Curve Cryptography"
