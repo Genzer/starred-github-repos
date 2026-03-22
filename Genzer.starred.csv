@@ -865,7 +865,7 @@
 "hadolint/hadolint","https://github.com/hadolint/hadolint","Dockerfile linter, validate inline bash, written in Haskell"
 "n8n-io/n8n","https://github.com/n8n-io/n8n","Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
 "osquery/osquery","https://github.com/osquery/osquery","SQL powered operating system instrumentation, monitoring, and analytics."
-"vinta/awesome-python","https://github.com/vinta/awesome-python","An opinionated list of awesome Python frameworks, libraries, software and resources."
+"vinta/awesome-python","https://github.com/vinta/awesome-python","An opinionated list of Python frameworks, libraries, tools, and resources."
 "TheAlgorithms/Python","https://github.com/TheAlgorithms/Python","All Algorithms implemented in Python"
 "ContainerSolutions/k8s-deployment-strategies","https://github.com/ContainerSolutions/k8s-deployment-strategies","Kubernetes deployment strategies explained"
 "fastapi/fastapi","https://github.com/fastapi/fastapi","FastAPI framework, high performance, easy to learn, fast to code, ready for production"
