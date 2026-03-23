@@ -113,7 +113,7 @@
 "shuaibiyy/awesome-tf","https://github.com/shuaibiyy/awesome-tf","Curated list of resources on HashiCorp's Terraform and OpenTofu"
 "LoadingByte/nexus3-exporter","https://github.com/LoadingByte/nexus3-exporter","A little script for downloading all assets inside a Nexus 3 repository, following the repository's format (e.g., Maven 2)."
 "davecheney/httpstat","https://github.com/davecheney/httpstat","It's like curl -v, with colours. "
-"djsudduth/keep-it-markdown","https://github.com/djsudduth/keep-it-markdown","Export and convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep."
+"djsudduth/keep-it-markdown","https://github.com/djsudduth/keep-it-markdown","Export and convert Google Keep notes dynamically to markdown for Obsidian, Apple Notes, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep."
 "smallstep/certificates","https://github.com/smallstep/certificates","🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH."
 "auto-ssl/lua-resty-auto-ssl","https://github.com/auto-ssl/lua-resty-auto-ssl","On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt."
 "ausimian/garnish","https://github.com/ausimian/garnish","A Terminal UI Framework for Elixir Applications"
