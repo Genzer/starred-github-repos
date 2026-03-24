@@ -1,4 +1,5 @@
 "repo","url","description"
+"numandev1/react-native-decompiler","https://github.com/numandev1/react-native-decompiler","Decompile React Native Android/IOS Bundle."
 "niklashigi/apk-mitm","https://github.com/niklashigi/apk-mitm","🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection"
 "android/nowinandroid","https://github.com/android/nowinandroid","A fully functional Android app built entirely with Kotlin and Jetpack Compose"
 "SilentVoid13/Templater","https://github.com/SilentVoid13/Templater","A template plugin for obsidian"
