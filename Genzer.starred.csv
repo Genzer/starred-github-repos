@@ -287,7 +287,7 @@
 "reactor/reactor-netty","https://github.com/reactor/reactor-netty","TCP/HTTP/UDP/QUIC client/server with Reactor over Netty"
 "samdjstevens/java-totp","https://github.com/samdjstevens/java-totp","A java library for implementing Time-based One Time Passwords for Multi-Factor Authentication."
 "kovidgoyal/kitty","https://github.com/kovidgoyal/kitty","If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based."
-"sourcey/sourcey","https://github.com/sourcey/sourcey","Beautiful static documentation generator for OpenAPI/Swagger 2.0"
+"sourcey/sourcey","https://github.com/sourcey/sourcey","Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own."
 "mnadeem/boot-opentelemetry-tempo","https://github.com/mnadeem/boot-opentelemetry-tempo","Project demonstrating Complete Observability Stack utilizing Prometheus, Loki (For distributed logging), Tempo (For Distributed tracing, this basically uses Jaeger Internally), Grafana for Java/spring based applications (With OpenTelemetry auto / manual Instrumentation) involving multiple microservices with DB interactions"
 "abhinavsingh/proxy.py","https://github.com/abhinavsingh/proxy.py","💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 ""Proxy Server"" framework • 🌐 ""Web Server"" framework • ➵ ➶ ➷ ➠ ""PubSub"" framework • 👷 ""Work"" acceptor & executor framework"
 "andriisoldatenko/awesome-performance-testing","https://github.com/andriisoldatenko/awesome-performance-testing","A collection of awesome performance testing resources"
