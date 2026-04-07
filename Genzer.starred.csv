@@ -1,4 +1,5 @@
 "repo","url","description"
+"httptoolkit/frida-interception-and-unpinning","https://github.com/httptoolkit/frida-interception-and-unpinning","Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic"
 "trufflesecurity/trufflehog-burp-suite-extension","https://github.com/trufflesecurity/trufflehog-burp-suite-extension","Official TruffleHog Burp Suite Extension. Scan Burp Suite traffic for 800+ different types of secrets (API keys, passwords, SSH keys, etc) using TruffleHog."
 "danielmiessler/SecLists","https://github.com/danielmiessler/SecLists","SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more."
 "vavkamil/awesome-bugbounty-tools","https://github.com/vavkamil/awesome-bugbounty-tools","A curated list of various bug bounty tools"
