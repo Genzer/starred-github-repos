@@ -1,4 +1,5 @@
 "repo","url","description"
+"chawdamrunal/JWTLens","https://github.com/chawdamrunal/JWTLens","JWTLens - Burp Suite extension for automated JWT security testing. 62 checks:   passive scanning, algorithm confusion, signature bypass, KID injection, weak secret brute force, and a built-in JWT Forge tab. Works automatically as you   browse."
 "ffuf/ffuf","https://github.com/ffuf/ffuf","Fast web fuzzer written in Go"
 "httptoolkit/frida-interception-and-unpinning","https://github.com/httptoolkit/frida-interception-and-unpinning","Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic"
 "trufflesecurity/trufflehog-burp-suite-extension","https://github.com/trufflesecurity/trufflehog-burp-suite-extension","Official TruffleHog Burp Suite Extension. Scan Burp Suite traffic for 800+ different types of secrets (API keys, passwords, SSH keys, etc) using TruffleHog."
