@@ -937,7 +937,7 @@
 "microsoft/api-guidelines","https://github.com/microsoft/api-guidelines","Microsoft REST API Guidelines"
 "endiangroup/compandauth","https://github.com/endiangroup/compandauth","Lightweight distributed session management primitives inspired by compare-and-swap (CAS)"
 "nickstenning/nginx-multiauth","https://github.com/nickstenning/nginx-multiauth","I am a terrible person."
-"hwdsl2/setup-ipsec-vpn","https://github.com/hwdsl2/setup-ipsec-vpn","Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2"
+"hwdsl2/setup-ipsec-vpn","https://github.com/hwdsl2/setup-ipsec-vpn","Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and management scripts."
 "vantage-sh/ec2instances.info","https://github.com/vantage-sh/ec2instances.info","Amazon EC2 instance comparison site"
 "IBM/resilient-java-microservices-with-istio","https://github.com/IBM/resilient-java-microservices-with-istio","In this code we demonstrate how to build, deploy, connect resilient Java microservices leveraging Istio service mesh. We show how to configure and use circuit breakers, timeouts/retries, rate limits and other advanced resiliency features from Istio without changing the application code."
 "kylemanna/docker-openvpn","https://github.com/kylemanna/docker-openvpn","🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA"
