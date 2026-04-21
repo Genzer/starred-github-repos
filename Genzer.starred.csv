@@ -1,4 +1,5 @@
 "repo","url","description"
+"dmno-dev/varlock","https://github.com/dmno-dev/varlock","AI-safe .env files: Schemas for agents, Secrets for humans."
 "pmoskovi/kafka-learning-resources","https://github.com/pmoskovi/kafka-learning-resources","A curated list of Apache Kafka learning resources"
 "versity/versitygw","https://github.com/versity/versitygw","A simple to deploy but feature rich S3 object storage server for your filesystem"
 "projectdiscovery/katana","https://github.com/projectdiscovery/katana","A next-generation crawling and spidering framework."
