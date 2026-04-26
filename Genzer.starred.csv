@@ -916,7 +916,7 @@
 "trimstray/nginx-admins-handbook","https://github.com/trimstray/nginx-admins-handbook","How to improve NGINX performance, security, and other important things."
 "derailed/popeye","https://github.com/derailed/popeye","👀 A Kubernetes cluster resource sanitizer"
 "plantuml-stdlib/C4-PlantUML","https://github.com/plantuml-stdlib/C4-PlantUML","C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures"
-"kamranahmedse/developer-roadmap","https://github.com/kamranahmedse/developer-roadmap","Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+"nilbuild/developer-roadmap","https://github.com/nilbuild/developer-roadmap","Interactive roadmaps, guides and other educational content to help developers grow in their careers."
 "biesbjerg/ngx-translate-extract","https://github.com/biesbjerg/ngx-translate-extract","Extract translatable (using ngx-translate) strings and save as a JSON or Gettext pot file"
 "OpenAPITools/openapi-generator","https://github.com/OpenAPITools/openapi-generator","OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
 "alex/what-happens-when","https://github.com/alex/what-happens-when","An attempt to answer the age old interview question ""What happens when you type google.com into your browser and press enter?"""
