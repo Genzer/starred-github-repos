@@ -1,4 +1,5 @@
 "repo","url","description"
+"yeswehack/PwnFox","https://github.com/yeswehack/PwnFox","PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit."
 "yeswehack/pp-finder","https://github.com/yeswehack/pp-finder","PP-finder Help you find gadget for prototype pollution exploitation"
 "badsectorlabs/copyfail-go","https://github.com/badsectorlabs/copyfail-go","A Go implementation of copyfail (CVE-2026-31431)"
 "dmtrKovalenko/fff","https://github.com/dmtrKovalenko/fff","The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS"
