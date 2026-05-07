@@ -1,4 +1,5 @@
 "repo","url","description"
+"projectdiscovery/uncover","https://github.com/projectdiscovery/uncover","Quickly discover exposed hosts on the internet using multiple search engines."
 "yeswehack/PwnFox","https://github.com/yeswehack/PwnFox","PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit."
 "yeswehack/pp-finder","https://github.com/yeswehack/pp-finder","PP-finder Help you find gadget for prototype pollution exploitation"
 "badsectorlabs/copyfail-go","https://github.com/badsectorlabs/copyfail-go","A Go implementation of copyfail (CVE-2026-31431)"
