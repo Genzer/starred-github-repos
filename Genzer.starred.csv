@@ -374,7 +374,7 @@
 "ebarlas/project-loom-c5m","2022-05-01T15:24:08Z","https://github.com/ebarlas/project-loom-c5m","Experiment to achieve 5 million persistent connections with Project Loom virtual threads"
 "sissbruecker/linkding","2022-05-01T05:38:33Z","https://github.com/sissbruecker/linkding","Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker."
 "envkey/envkey","2022-05-01T04:42:40Z","https://github.com/envkey/envkey","Simple, end-to-end encrypted configuration and secrets management"
-"TomWright/dasel","2022-04-27T14:51:21Z","https://github.com/TomWright/dasel","Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod."
+"TomWright/dasel","2022-04-27T14:51:21Z","https://github.com/TomWright/dasel","Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod."
 "warp-tech/warpgate","2022-04-24T23:30:39Z","https://github.com/warp-tech/warpgate","Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software"
 "riramar/Web-Attack-Cheat-Sheet","2022-04-24T11:30:35Z","https://github.com/riramar/Web-Attack-Cheat-Sheet","Web Attack Cheat Sheet"
 "nipafx/demo-java-x","2022-04-23T08:15:34Z","https://github.com/nipafx/demo-java-x","Demonstrates Java 9-18's new features"
