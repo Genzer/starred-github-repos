@@ -23,6 +23,7 @@ jobs:
         id: export_github_starred_repos
         env:
           DEBUG: "TRUE"
+          GITHUB_TOKEN: "${{ github.token }}"
         run: |
           bash scripts/fetch_stars.sh 'Genzer' >|Genzer.starred.csv
 
