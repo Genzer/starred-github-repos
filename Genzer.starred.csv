@@ -995,7 +995,7 @@
 "themylogin/nfs_inotify","2018-04-12T09:53:44Z","https://github.com/themylogin/nfs_inotify","Transfers inotify events from NFS server to client (for example, for MPD library auto-update)"
 "warmuuh/libsass-maven-plugin","2018-04-11T06:16:49Z","https://github.com/warmuuh/libsass-maven-plugin","libsass wrapper for maven"
 "gitbucket/gitbucket","2018-04-08T03:58:33Z","https://github.com/gitbucket/gitbucket","A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility"
-"gogs/gogs","2018-04-08T03:04:23Z","https://github.com/gogs/gogs","Gogs is a painless self-hosted Git service"
+"gogs/gogs","2018-04-08T03:04:23Z","https://github.com/gogs/gogs","The painless way to host your own Git service"
 "RasaHQ/rasa_core","2018-03-28T08:30:21Z","https://github.com/RasaHQ/rasa_core","Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations"
 "RasaHQ/rasa","2018-03-28T08:30:16Z","https://github.com/RasaHQ/rasa","💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
 "wireapp/wire-server","2018-03-06T06:26:55Z","https://github.com/wireapp/wire-server","🇪🇺 Wire back-end services"
