@@ -815,7 +815,7 @@
 "Joxit/docker-registry-ui","2020-09-06T15:07:45Z","https://github.com/Joxit/docker-registry-ui","The simplest and most complete UI for your private docker registry v2 and v3"
 "citusdata/citus","2020-09-06T06:42:47Z","https://github.com/citusdata/citus","Distributed PostgreSQL as an extension"
 "weaveworks/awesome-gitops","2020-09-05T14:18:51Z","https://github.com/weaveworks/awesome-gitops","A curated list for awesome GitOps resources"
-"bitnami-labs/sealed-secrets","2020-09-05T14:18:47Z","https://github.com/bitnami-labs/sealed-secrets","A Kubernetes controller and tool for one-way encrypted Secrets"
+"bitnami/sealed-secrets","2020-09-05T14:18:47Z","https://github.com/bitnami/sealed-secrets","A Kubernetes controller and tool for one-way encrypted Secrets"
 "sobolevn/git-secret","2020-09-05T14:01:52Z","https://github.com/sobolevn/git-secret",":busts_in_silhouette: A bash-tool to store your private data inside a git repository."
 "paragonie/paseto","2020-09-02T15:34:12Z","https://github.com/paragonie/paseto","Platform-Agnostic Security Tokens"
 "jessfraz/.vim","2020-08-26T16:13:52Z","https://github.com/jessfraz/.vim","My .vim dotfiles and configurations."
