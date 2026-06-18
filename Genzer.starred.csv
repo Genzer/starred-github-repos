@@ -13,7 +13,7 @@
 "yeswehack/PwnFox","2026-05-05T02:47:34Z","https://github.com/yeswehack/PwnFox","PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit."
 "yeswehack/pp-finder","2026-05-01T09:48:13Z","https://github.com/yeswehack/pp-finder","PP-finder Help you find gadget for prototype pollution exploitation"
 "badsectorlabs/copyfail-go","2026-04-30T10:46:57Z","https://github.com/badsectorlabs/copyfail-go","A Go implementation of copyfail (CVE-2026-31431)"
-"dmtrKovalenko/fff","2026-04-22T16:02:18Z","https://github.com/dmtrKovalenko/fff","The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS"
+"dmtrKovalenko/fff","2026-04-22T16:02:18Z","https://github.com/dmtrKovalenko/fff","The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS"
 "dmno-dev/varlock","2026-04-21T07:43:36Z","https://github.com/dmno-dev/varlock","AI-safe .env files: Schemas for agents, Secrets for humans."
 "pmoskovi/kafka-learning-resources","2026-04-18T10:53:33Z","https://github.com/pmoskovi/kafka-learning-resources","A curated list of Apache Kafka learning resources"
 "versity/versitygw","2026-04-18T02:02:02Z","https://github.com/versity/versitygw","A simple to deploy but feature rich S3 object storage server for your filesystem"
