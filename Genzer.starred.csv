@@ -1,4 +1,5 @@
 "repo","starred_at","url","description"
+"overhacked/ssh-agent-mux","2026-07-26T00:06:39Z","https://github.com/overhacked/ssh-agent-mux","Combines multiple agents' keys into a single agent"
 "52-HRTZ/security-writeups","2026-07-19T10:39:09Z","https://github.com/52-HRTZ/security-writeups","A curated collection of my security research and bug bounty writeups, documenting real-world vulnerabilities, exploitation methods"
 "paper-design/paper-mono","2026-07-19T06:50:10Z","https://github.com/paper-design/paper-mono",
 "nethical6/conversation-steganography","2026-07-17T20:24:07Z","https://github.com/nethical6/conversation-steganography","Use LLMs to hide messages inside normal looking conversations"
