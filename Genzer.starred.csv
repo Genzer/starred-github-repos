@@ -360,7 +360,7 @@
 "no1msd/mstch","2022-08-13T15:19:47Z","https://github.com/no1msd/mstch","mstch is a complete implementation of {{mustache}} templates using modern C++"
 "halcyon/asdf-java","2022-08-11T03:49:32Z","https://github.com/halcyon/asdf-java","A Java plugin for asdf-vm."
 "ventoy/Ventoy","2022-08-09T18:29:44Z","https://github.com/ventoy/Ventoy","A new bootable USB solution."
-"filebrowser/filebrowser","2022-08-09T18:28:20Z","https://github.com/filebrowser/filebrowser","📂 Web File Browser"
+"filebrowser/filebrowser","2022-08-09T18:28:20Z","https://github.com/filebrowser/filebrowser","File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files."
 "robusta-dev/robusta","2022-08-09T18:28:03Z","https://github.com/robusta-dev/robusta","Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation"
 "sverweij/dependency-cruiser","2022-08-07T07:32:07Z","https://github.com/sverweij/dependency-cruiser","Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD."
 "ggandor/lightspeed.nvim","2022-08-06T14:20:01Z","https://github.com/ggandor/lightspeed.nvim","deprecated in favor of leap.nvim"
