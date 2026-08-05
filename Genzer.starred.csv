@@ -285,7 +285,7 @@
 "pgrok/pgrok","2023-03-15T01:41:00Z","https://github.com/pgrok/pgrok","Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding"
 "coroot/coroot","2023-03-13T09:17:33Z","https://github.com/coroot/coroot","Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections."
 "copier-org/copier","2023-03-13T04:11:46Z","https://github.com/copier-org/copier","Library and command-line utility for rendering projects templates."
-"microlinkhq/keyvhq","2023-03-07T04:54:07Z","https://github.com/microlinkhq/keyvhq","Simple key-value storage with support for multiple backends."
+"microlinkhq/keyvhq","2023-03-07T04:54:07Z","https://github.com/microlinkhq/keyvhq","Simple key-value storage for Node.js with TTL and pluggable backends via Keyv adapters."
 "dockovpn/dockovpn","2023-03-05T22:52:27Z","https://github.com/dockovpn/dockovpn","🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds"
 "XAMPPRocky/tokei","2023-03-04T04:55:33Z","https://github.com/XAMPPRocky/tokei","Count your code, quickly."
 "google/jsonnet","2023-02-23T08:32:00Z","https://github.com/google/jsonnet","Jsonnet - The data templating language"
