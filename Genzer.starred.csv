@@ -682,7 +682,7 @@
 "posquit0/awesome-engineering-team-principles","2021-04-14T09:28:47Z","https://github.com/posquit0/awesome-engineering-team-principles",":sunglasses: A curated list of awesome resources for engineering team principles"
 "babashka/babashka","2021-04-11T16:43:43Z","https://github.com/babashka/babashka","Native, fast starting Clojure interpreter for scripting"
 "Syknapse/My-Learning-Tracker","2021-04-10T23:50:22Z","https://github.com/Syknapse/My-Learning-Tracker","Keeping track of my web development skills and learning in one place along with resources, highlights, interests, and everything to do with my learning."
-"nicolargo/glances","2021-04-09T12:38:19Z","https://github.com/nicolargo/glances","Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems."
+"nicolargo/glances","2021-04-09T12:38:19Z","https://github.com/nicolargo/glances","Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems."
 "aria2/aria2","2021-04-08T03:22:00Z","https://github.com/aria2/aria2","aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink."
 "chubin/pyphoon","2021-04-07T22:32:55Z","https://github.com/chubin/pyphoon",":waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)"
 "slorber/combine-promises","2021-04-07T13:19:08Z","https://github.com/slorber/combine-promises","Like Promise.all(array) but with an object instead of an array."
