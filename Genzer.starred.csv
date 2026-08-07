@@ -1,4 +1,5 @@
 "repo","starred_at","url","description"
+"theanalyst/awesome-distributed-systems","2026-08-07T05:23:52Z","https://github.com/theanalyst/awesome-distributed-systems","A curated list to learn about distributed systems"
 "firecrawl/pdf-inspector","2026-08-02T18:43:19Z","https://github.com/firecrawl/pdf-inspector","Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
 "overhacked/ssh-agent-mux","2026-07-26T00:06:39Z","https://github.com/overhacked/ssh-agent-mux","Combines multiple agents' keys into a single agent"
 "52-HRTZ/security-writeups","2026-07-19T10:39:09Z","https://github.com/52-HRTZ/security-writeups","A curated collection of my security research and bug bounty writeups, documenting real-world vulnerabilities, exploitation methods"
