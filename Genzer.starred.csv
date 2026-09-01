@@ -675,7 +675,6 @@
 "jwiegley/git-from-the-bottom-up","2021-05-15T07:07:16Z","https://github.com/jwiegley/git-from-the-bottom-up","An introduction to the architecture and design of the Git content manager"
 "anomalizer/ngx_aws_auth","2021-05-15T01:58:02Z","https://github.com/anomalizer/ngx_aws_auth","nginx module to proxy to authenticated AWS services"
 "britzl/aws-sdk-lua","2021-05-15T01:48:17Z","https://github.com/britzl/aws-sdk-lua","Auto generated AWS SDK for Lua"
-"dabeaz/cluegen","2021-05-11T23:45:42Z","https://github.com/dabeaz/cluegen","Get a clue, get some code"
 "localtunnel/server","2021-05-09T05:43:36Z","https://github.com/localtunnel/server","server for localtunnel.me"
 "marionebl/svg-term-cli","2021-05-09T05:34:15Z","https://github.com/marionebl/svg-term-cli","Share terminal sessions via SVG and CSS"
 "vadimdemedes/ink","2021-05-09T05:32:21Z","https://github.com/vadimdemedes/ink","🌈 React for interactive command-line apps"
