@@ -843,7 +843,7 @@
 "ory/hydra","2020-09-19T15:55:34Z","https://github.com/ory/hydra","Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
 "thoughtworks/build-your-own-radar","2020-09-19T15:44:08Z","https://github.com/thoughtworks/build-your-own-radar","A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/."
 "zalando/tech-radar","2020-09-19T15:01:32Z","https://github.com/zalando/tech-radar","Visualizing our technology choices"
-"docsydev/docsy-example","2020-09-19T12:13:02Z","https://github.com/docsydev/docsy-example","An example documentation site using the Docsy Hugo theme"
+"docsy/docsy-example","2020-09-19T12:13:02Z","https://github.com/docsy/docsy-example","An example documentation site using the Docsy Hugo theme"
 "digitallyinduced/ihp","2020-09-18T12:45:35Z","https://github.com/digitallyinduced/ihp","🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness"
 "Quiq/registry-ui","2020-09-10T17:03:03Z","https://github.com/Quiq/registry-ui","Web UI for Docker Registry"
 "mrvautin/adminMongo","2020-09-10T08:48:57Z","https://github.com/mrvautin/adminMongo","adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs."
