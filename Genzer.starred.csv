@@ -1016,7 +1016,6 @@
 "funbox/smppsend","2018-09-26T03:03:33Z","https://github.com/funbox/smppsend","Command line tool for sending messages to SMSC through SMPP"
 "testcontainers/testcontainers-java","2018-09-24T21:28:49Z","https://github.com/testcontainers/testcontainers-java","Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
 "peerlibrary/meteor-reactive-publish","2018-09-08T11:48:37Z","https://github.com/peerlibrary/meteor-reactive-publish","Reactive publish endpoints"
-"osiegmar/aws-lambda-backup","2018-09-08T01:13:27Z","https://github.com/osiegmar/aws-lambda-backup","AWS Lambda script to create and remove snapshots of EBS volumes."
 "Meteor-Community-Packages/meteor-collection-hooks","2018-09-07T09:58:23Z","https://github.com/Meteor-Community-Packages/meteor-collection-hooks","Meteor Collection Hooks"
 "koalaman/shellcheck","2018-08-26T23:58:07Z","https://github.com/koalaman/shellcheck","ShellCheck, a static analysis tool for shell scripts"
 "jesseduffield/lazygit","2018-08-13T02:20:27Z","https://github.com/jesseduffield/lazygit","simple terminal UI for git commands"
