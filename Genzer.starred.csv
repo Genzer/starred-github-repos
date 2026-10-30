@@ -417,7 +417,7 @@
 "docker-archive/compose-cli","2022-07-24T04:58:31Z","https://github.com/docker-archive/compose-cli","Easily run your Compose application to the cloud with compose-cli"
 "int128/kubelogin","2022-07-20T00:21:19Z","https://github.com/int128/kubelogin","kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)"
 "alyssaxuu/later","2022-07-14T06:56:07Z","https://github.com/alyssaxuu/later","Save all your Mac apps for later with one click 🖱️"
-"Ibexoft/awesome-startup-tools-list","2022-07-10T16:00:23Z","https://github.com/Ibexoft/awesome-startup-tools-list","List of all tools (apps, services) that startups should use."
+"Ibexoft/awesome-startup-tools-list","2022-07-10T16:00:23Z","https://github.com/Ibexoft/awesome-startup-tools-list","List of all tools startups should use."
 "philc/vimium","2022-07-10T15:52:37Z","https://github.com/philc/vimium","The hacker's browser."
 "yuriisanin/CVE-2022-24342","2022-07-10T15:21:57Z","https://github.com/yuriisanin/CVE-2022-24342","PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication"
 "healthchecks/healthchecks","2022-07-10T06:55:35Z","https://github.com/healthchecks/healthchecks","Open-source cron job and background task monitoring service, written in Python & Django"
