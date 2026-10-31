@@ -1,4 +1,5 @@
 "repo","starred_at","url","description"
+"usagimaru/EventTapper","2026-10-31T10:46:21Z","https://github.com/usagimaru/EventTapper","A CGEventTap-based module for catching keyboard and mouse events on macOS. Easily detect hot keys and global mouse events in your apps."
 "tabloy/keygate","2026-10-27T11:42:41Z","https://github.com/tabloy/keygate","Open source license management platform. Subscriptions, perpetual, trials, floating licenses, usage metering, Stripe payments, team seats, and admin dashboard. Self-hosted       alternative to Keygen & Cryptlex. One binary, one database."
 "ClickHouse/walshadow","2026-10-27T02:20:56Z","https://github.com/ClickHouse/walshadow","Sub-second Postgres replication to ClickHouse using physical WAL"
 "BandarLabs/Cobalt","2026-10-27T02:18:54Z","https://github.com/BandarLabs/Cobalt","SDK for building apps & an app store for your Kobo eInk reader"
