@@ -320,7 +320,6 @@
 "openshift/oc","2023-04-06T03:25:56Z","https://github.com/openshift/oc","The OpenShift Command Line, part of OKD"
 "openshift-examples/web","2023-04-05T22:41:13Z","https://github.com/openshift-examples/web","🚀 Content of examples.openshift.pub"
 "cloudflare/workerd","2023-04-04T13:54:08Z","https://github.com/cloudflare/workerd","The JavaScript / Wasm runtime that powers Cloudflare Workers"
-"cmuratori/misc","2023-04-03T23:37:04Z","https://github.com/cmuratori/misc","Clippings"
 "honojs/hono","2023-04-03T09:21:44Z","https://github.com/honojs/hono","Web framework built on Web Standards"
 "kata-containers/kata-containers","2023-03-30T05:14:39Z","https://github.com/kata-containers/kata-containers","Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
 "fastly/pushpin","2023-03-23T15:20:17Z","https://github.com/fastly/pushpin","A proxy server for adding push to your API, used at the core of Fastly's Fanout service"
