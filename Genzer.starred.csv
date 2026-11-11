@@ -1,4 +1,5 @@
 "repo","starred_at","url","description"
+"tailscale/tailcat","2026-11-11T12:21:19Z","https://github.com/tailscale/tailcat","like netcat, but over Tailscale's data plane, without Tailscale's control plane"
 "objective-see/LuLu","2026-11-11T00:14:15Z","https://github.com/objective-see/LuLu","LuLu is the free open-source macOS firewall"
 "piercefreeman/waymark","2026-11-07T02:42:41Z","https://github.com/piercefreeman/waymark","🧭 Distributed background workflows, durably executed"
 "mhfed/vn-law-check","2026-11-03T14:10:43Z","https://github.com/mhfed/vn-law-check","Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline"
