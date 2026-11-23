@@ -630,7 +630,7 @@
 "winfsp/winfsp","2021-08-23T01:50:54Z","https://github.com/winfsp/winfsp","Windows File System Proxy - FUSE for Windows"
 "ahmetb/kubectx","2021-08-20T03:58:46Z","https://github.com/ahmetb/kubectx","Faster way to switch between clusters and namespaces in kubectl"
 "NvChad/NvChad","2021-08-19T18:50:17Z","https://github.com/NvChad/NvChad","Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience."
-"rapi-doc/RapiDoc","2021-08-15T13:16:37Z","https://github.com/rapi-doc/RapiDoc","RapiDoc -WebComponent for OpenAPI Spec"
+"rapi-doc/RapiDoc","2021-08-15T13:16:37Z","https://github.com/rapi-doc/RapiDoc","RapiDoc: open-source tools for OpenAPI and Arazzo: the <rapi-doc> web component for interactive API references, a docs-as-code developer portal, a mock server, Arazzo workflows, PDFs and MCP"
 "speced/respec","2021-08-15T13:14:00Z","https://github.com/speced/respec","A tool for creating technical documents and web standards"
 "zalando/logbook","2021-08-14T07:41:12Z","https://github.com/zalando/logbook","An extensible Java library for HTTP request and response logging"
 "sigstore/cosign","2021-08-08T19:08:59Z","https://github.com/sigstore/cosign","Code signing and transparency for containers and binaries"
